@@ -5,9 +5,11 @@
       <map>
         <entry key="app/src/main/res/drawable/ic_happy.xml" value="0.14479166666666668" />
         <entry key="app/src/main/res/drawable/ic_location.xml" value="0.2635897435897436" />
+        <entry key="app/src/main/res/drawable/ic_neutral.xml" value="0.2635897435897436" />
         <entry key="app/src/main/res/drawable/ic_phone.xml" value="0.2635897435897436" />
         <entry key="app/src/main/res/drawable/ic_sad.xml" value="0.14479166666666668" />
         <entry key="app/src/main/res/drawable/ic_web.xml" value="0.2635897435897436" />
+        <entry key="app/src/main/res/layout/activity_create_contact.xml" value="0.25" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.25" />
       </map>
     </option>
